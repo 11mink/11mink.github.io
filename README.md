@@ -1,1 +1,2 @@
-# 11mink.github.io
+Set objShell = CreateObject("WScript.Shell")
+objShell.Run "notepad.exe"
